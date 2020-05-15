@@ -1,5 +1,7 @@
 <h1> SCREENSHOOT TAMPILAN</h1>
 
+# COUNTER
+
 ![1](https://user-images.githubusercontent.com/38846652/82070063-6ba42300-96fe-11ea-855d-097a019214ca.PNG) 
 ![2](https://user-images.githubusercontent.com/38846652/82070067-6d6de680-96fe-11ea-89ff-4811c64f07cd.PNG)
 ![3](https://user-images.githubusercontent.com/38846652/82070068-6e067d00-96fe-11ea-80f2-d54c5ba9955b.PNG) 
